@@ -1,18 +1,17 @@
 # Data Science Jupyter Notebook Templates
----
+
 This repository contains a collection of Jupyter Notebook templates for data science tasks such as hypothesis tests, regression models, and machine learning models. These templates are designed to help data scientists and analysts quickly and easily create and execute common data analysis tasks using Python.
 
 ## Table of Contents
-- Getting Started
-- Notebook Templates
-- Contributing
-- License
+- [Getting Started](#Getting-Started)
+- [Notebook Templates](#Notebook-Templates)
+- [Contributing](#Contributing)
 
 ## Getting Started
 To use these notebook templates, you will need to have Python and Jupyter Notebook installed on your machine. You can download and install them from the following links:
 
-- Python 
-- Jupyter Notebook
+- [Python](https://www.python.org/downloads/) 
+- [Jupyter Notebook](https://jupyter.org/install)
 
 Once you have Python and Jupyter Notebook installed, you can clone this repository to your local machine using the following command:
 
@@ -23,9 +22,8 @@ This repository contains the following Jupyter Notebook templates:
 
 - **Basic Hypothesis Testing Template:** This template provides a starting point for conducting hypothesis tests on data using Python. It includes code for calculating statistical z-tests and t-tests and provides examples of how to interpret the results.
 
-- ***Coming Soon***
+***Coming Soon***
 - **Regression Analysis Template:** This template will provide a starting point for building regression models in Python. It includes code for importing data, preprocessing the data, building a regression model, and evaluating the model's performance.
-
 - **Machine Learning Template:** This template will a starting point for building machine learning models in Python. It includes code for importing data, preprocessing the data, building a machine learning model, and evaluating the model's performance.
 
 ## Contributing
