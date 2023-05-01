@@ -24,9 +24,10 @@ This repository contains the following Jupyter Notebook templates:
 
 - **Simple Linear Regression Template:** This template provides a starting point for building simple linear regression models in Python. It includes code for importing data, preprocessing the data, building a regression model, and evaluating the model's performance.
 
+- **Multiple Regression Analysis Template:** This template provides a starting point for building multiple regression models in Python. It includes code for importing data, preprocessing the data, building a regression model, and evaluating the model's performance.
+
 ***Coming Soon***
-- **Multiple Regression Analysis Template:** This template will provide a starting point for building multiple regression models in Python. It includes code for importing data, preprocessing the data, building a regression model, and evaluating the model's performance.
-- **Machine Learning Template:** This template will a starting point for building machine learning models in Python. It includes code for importing data, preprocessing the data, building a machine learning model, and evaluating the model's performance.
+- **Machine Learning Templates:** These templates will offer a starting point for building machine learning models in Python. It will include code for importing data, preprocessing the data, building a machine learning model, and evaluating the model's performance.
 
 ## Contributing
 If you have a notebook template that you would like to contribute, please follow these steps:
