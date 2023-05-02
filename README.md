@@ -28,6 +28,8 @@ This repository contains the following Jupyter Notebook templates:
 
 - **Binomial Logistic Regression Template:** This template provides a starting point for the creation of a binomial logistic regression model in Python. It includes code for importing data, doing exploratory data analysis, constructing the regression model and evaluating the model performance.  
 
+- **Naive Bayes Classification Model:** This template provides a starting point for the construction of a Naive Bayes model in Python. The template includes code for loading relevant packages, importing data, doing EDA, constructing the model and evaluating the results.
+
 ***Coming Soon***
 - **Machine Learning Templates:** These templates will offer a starting point for building machine learning models in Python. It will include code for importing data, preprocessing the data, building a machine learning model, and evaluating the model's performance.
 
