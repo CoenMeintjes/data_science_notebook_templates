@@ -30,6 +30,8 @@ This repository contains the following Jupyter Notebook templates:
 
 - **Naive Bayes Classification Model:** This template provides a starting point for the construction of a Naive Bayes model in Python. The template includes code for loading relevant packages, importing data, doing EDA, constructing the model and evaluating the results.
 
+- **Decision Tree Template:** This notebook template provides a starting point for the construction of a Decision Tree model in Python. The notebook includes code for loading packages, importing data, doing EDA, constructing and evaluating the model.
+
 ***Coming Soon***
 - **Machine Learning Templates:** These templates will offer a starting point for building machine learning models in Python. It will include code for importing data, preprocessing the data, building a machine learning model, and evaluating the model's performance.
 
