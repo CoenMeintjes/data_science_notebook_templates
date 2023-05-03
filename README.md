@@ -30,6 +30,8 @@ This repository contains the following Jupyter Notebook templates:
 
 - **Naive Bayes Classification Model:** This template provides a starting point for the construction of a Naive Bayes model in Python. The template includes code for loading relevant packages, importing data, doing EDA, constructing the model and evaluating the results.
 
+- **K-means Template:** This template provides a starting point for the construction of a k-mean partitioning model in Python. The notebook includes code for importing libraries, importing data, doing exploratory data analysis, constructing the k-means model and evaluating the model performance.
+
 ***Coming Soon***
 - **Machine Learning Templates:** These templates will offer a starting point for building machine learning models in Python. It will include code for importing data, preprocessing the data, building a machine learning model, and evaluating the model's performance.
 
