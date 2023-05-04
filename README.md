@@ -33,7 +33,7 @@ This repository contains the following Jupyter Notebook templates:
 
 - **Decision Tree Template:** This notebook template provides a starting point for the construction of a Decision Tree model in Python. The notebook includes code for loading packages, importing data, doing EDA, constructing and evaluating the model.
 
-- **Random Forest Template:** This notebook template provides a starting point for the construction of a Random Forest classification model in Python. The notebook includes code for loading packages, importing data, doing EDs, constructing and evaluating the model.
+- **Random Forest Template:** This notebook template provides a starting point for the construction of a Random Forest classification model in Python. The notebook includes code for loading packages, importing data, doing EDA, constructing and evaluating the model.
 
 - **Gradient Boost Template:** This notebook template provides a starting point for the construction of a Gradient Boost classification model in Python. The notebook includes code for loading packages, importing data, doing EDA, constructing and evaluating the model.
 
