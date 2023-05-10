@@ -20,6 +20,8 @@ Once you have Python and Jupyter Notebook installed, you can clone this reposito
 ## Notebook Templates
 This repository contains the following Jupyter Notebook templates:
 
+- **Exploratory Data Analysis (EDA) Template:** This template provides a framework for the exploratory data analysis process. It includes code for Discovering, Structuring, Cleaning, Joining, Validating and Presenting data.
+
 - **Basic Hypothesis Testing Template:** This template provides a starting point for conducting hypothesis tests on data using Python. It includes code for calculating statistical z-tests and t-tests and provides examples of how to interpret the results.
 
 - **Simple Linear Regression Template:** This template provides a starting point for building simple linear regression models in Python. It includes code for importing data, preprocessing the data, building a regression model, and evaluating the model's performance.
